@@ -1,6 +1,6 @@
 #bin/bash
 apt install git php -y
-git clone https://github.com/dkendcode/S4dulur.git
+git clone https://github.com/dkendcode/S4dulurMod.git
 cat >start-S4dulur <<EOL
 #bin/bash
 cd S4dulur
